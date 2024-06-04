@@ -16,9 +16,9 @@ Step6: use the function DivideIntoBj_FirstRound(right_pairs, Ai) to get Bj, and 
 
 Next, we write T-box recovered to Tbox1_recovered[256] and then continue to recover the second round.
 The difference from the recovery of the first round is that there is an additional partial decryption process. In the CC set it is a  partial encryption process.
+We ignore the description of this process
 
-
-
+Finally, we obtain a new cipher Recoveryoroi(), which has the same functionality with yoroi().
 
 
 
