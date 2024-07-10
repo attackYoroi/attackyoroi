@@ -22,6 +22,6 @@ Finally, we obtain a new cipher Recoveryoroi(), which has the same functionality
 
 ------------------------------
 
-Before testing Rpw, we should use genration
+Before testing Rpw, we should use generate_permutation.py to get some 4-bit permutation, and code them in the "P" in testRpw.cpp.
 
 
