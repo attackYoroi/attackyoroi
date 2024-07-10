@@ -20,7 +20,8 @@ We ignore the description of this process
 
 Finally, we obtain a new cipher Recoveryoroi(), which has the same functionality with yoroi().
 
+------------------------------
 
-
+Before testing Rpw, we should use genration
 
 
