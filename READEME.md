@@ -23,7 +23,7 @@ Finally, we obtain a new cipher Recoveryoroi(), which has the same functionality
 ------------------------------
 
 
-You can use sieve_correct of Yoroi-16  The code  of sieve correct of Yoroi-16 is in 
+You can use sieve- correct pairs by the corresponding code. For simplicity, we firsr pick correct pairs from the original plaintexts with an omniscient perspective. Next we extend them and test the corresponding output difference.
 
 ------------
 Before testing Rpw, we should use generate_permutation.py to get some 4-bit permutation, and code them in the "P" in testRpw.cpp.
