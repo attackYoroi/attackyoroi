@@ -10,5 +10,6 @@
 
 
 ## Reproduce
-- Compile and execute these codes, and the results are stored in the same path as the code. Have fun!
+- Compile and execute these codes, and the results are stored in the same path as the code.
+- Have fun!
 
